@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=QSPI_CSX Pin=F1-43
+Removed Pin From Net: NetName=QSPI_CSX Pin=F1-44
+Removed Pin From Net: NetName=QSPI_CSX Pin=F1-45
+Removed Pin From Net: NetName=QSPI_CSX Pin=F1-47
+Removed Pin From Net: NetName=QSPI_CSX Pin=F1-48
+Removed Pin From Net: NetName=QSPI_CSX Pin=F1-49
+Removed Pin From Net: NetName=QSPI_CSX Pin=F1-58
+Removed Pin From Net: NetName=QSPI_CSX Pin=J1-9
+Removed Pin From Net: NetName=QSPI_CSX Pin=J1-10
+Removed Pin From Net: NetName=QSPI_CSX Pin=J1-11
+Removed Pin From Net: NetName=QSPI_CSX Pin=J1-12
+Removed Pin From Net: NetName=QSPI_CSX Pin=J1-13
+Removed Pin From Net: NetName=QSPI_CSX Pin=J1-14
+Removed Pin From Net: NetName=QSPI_CSX Pin=J1-15
+Removed Pin From Net: NetName=QSPI_CSX Pin=J1-18
+Change Net Name : Old Net Name=QSPI_CSX New Net Name=GND
+Added Pin To Net: NetName=QSPI_CSX Pin=F1-45
+Added Pin To Net: NetName=QSPI_CSX Pin=J1-9
+Added Net: Name=QSPI_CSX
+Added Pin To Net: NetName=QSPI_SCL Pin=F1-44
+Added Pin To Net: NetName=QSPI_SCL Pin=J1-15
+Added Net: Name=QSPI_SCL
+Added Pin To Net: NetName=QSPI_SDI0 Pin=F1-47
+Added Pin To Net: NetName=QSPI_SDI0 Pin=J1-11
+Added Net: Name=QSPI_SDI0
+Added Pin To Net: NetName=QSPI_SDI1 Pin=F1-43
+Added Pin To Net: NetName=QSPI_SDI1 Pin=J1-12
+Added Net: Name=QSPI_SDI1
+Added Pin To Net: NetName=QSPI_SDI2 Pin=F1-48
+Added Pin To Net: NetName=QSPI_SDI2 Pin=J1-13
+Added Net: Name=QSPI_SDI2
+Added Pin To Net: NetName=QSPI_SDI3 Pin=F1-49
+Added Pin To Net: NetName=QSPI_SDI3 Pin=J1-14
+Added Net: Name=QSPI_SDI3
+Added Pin To Net: NetName=TE Pin=F1-58
+Added Pin To Net: NetName=TE Pin=J1-10
+Added Net: Name=TE
+Added Pin To Net: NetName=VCI_EN Pin=J1-18
+Added Net: Name=VCI_EN
+Added Rule: Name=Schematic Supply Nets

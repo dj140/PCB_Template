@@ -1,0 +1,4 @@
+Added Component: Designator=F1(COF Connector)
+Added Class: Name=COF
+Change Room Name: Old Name=JLINKOB New Name=COF
+Change Room Scope: Old Scope=HasFootprint('BGA146C35P13X12_390X430X350') New Scope=InComponentClass('COF')
